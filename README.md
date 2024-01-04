@@ -19,18 +19,11 @@ _Don't forget to take your meds before you try this_
 - Has the oldschool feel of games like **Doom** or **Wolf3D**:)
 
 
-## installation
+## Install guide
 
-- just run
+   > Just run
 
 **make sure pygame is installed on your system**
 
 
-
-
-
-HTMLshell.html   HTML shell for emscripten (browser) version
-index.html       game website
-README.md        this readme
-```
 
